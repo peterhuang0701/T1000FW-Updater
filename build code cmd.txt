@@ -1,0 +1,1 @@
+pyinstaller --clean --noconsole --onefile --name T1000FW_Updater --icon=ico.ico fw_upgrade_gui.py

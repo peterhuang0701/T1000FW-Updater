@@ -1,0 +1,20 @@
+# PyInstaller build artifacts
+build/
+dist/
+dist.zip
+*.exe
+
+# Firmware binaries (distributed separately, not source)
+*.bin
+*.hex
+
+# Python
+__pycache__/
+*.pyc
+
+# Local tool settings
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
